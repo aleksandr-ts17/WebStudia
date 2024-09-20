@@ -1,0 +1,30 @@
+/* Roboto Regular 400 */
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+/* Roboto Medium 500 */
+.roboto-medium {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+/* Roboto Bold 700 */
+.roboto-bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+/* Raleway ExtraBold 800 */
+.raleway-extrabold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+
+a {text-decoration: none;}
+
+.list {list-style: none;}
+
+.menu-link:hover,
+.menu-link:focus {color: chocolate;}
