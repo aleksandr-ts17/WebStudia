@@ -1,3 +1,5 @@
+* {box-sizing: border-box;}
+
 /* Roboto Regular 400 */
 .roboto-regular {
     font-family: 'Roboto', sans-serif;
@@ -28,3 +30,34 @@ a {text-decoration: none;}
 
 .menu-link:hover,
 .menu-link:focus {color: chocolate;}
+.menu-item {margin: 10px;}
+.logo {margin: 10px;}
+
+
+
+.header {display: flex;}
+
+.navigation {display: flex;
+    flex-direction: row;
+justify-content: space-around;}
+.list {display: flex;}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+background-color: blue;}
+    .description-text {
+        justify-content: center;
+        display: flex;}
+
+.about-us-text-list {display: flex;}
+
+.about-us-text-item { width: 264;
+    height: auto;}
+
+.description-text {width: 496; height: 120;}
+
+.contact-mail {margin: 5px;}
+.contact-phone-number {margin: 5px;}
+
