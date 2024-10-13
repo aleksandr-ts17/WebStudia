@@ -28,36 +28,26 @@ a {text-decoration: none;}
 
 .list {list-style: none;}
 
-.menu-link:hover,
-.menu-link:focus {color: chocolate;}
-.menu-item {margin: 10px;}
-.logo {margin: 10px;}
+.logo-text-first {color:#4D5AE5;}
+.menu-item-link {color: #2E2F42;}
+.mail {color: #434455;}
+.number {color: #434455;}
 
+.description {background-color: #2E2F42;}
+.description-title {color: #FFFFFF;}
+.modal-button {background-color: #4D5AE5;
+color: #FFFFFF;}
 
+.about-title {color: #2E2F42;}
+.about-text {color: #434455;}
+.services-title {color: #2E2F42;}
+.services-img {width: 360px; height: 300px;}
 
-.header {display: flex;}
+.team {background-color: #F4F4FD;}
+.team-title {color: #2E2F42;}
+.worker-photo {width: 264px; width: 260px;}
+.name {color: #2E2F42;}
+.profession {color: #434455;}
 
-.navigation {display: flex;
-    flex-direction: row;
-justify-content: space-around;}
-.list {display: flex;}
-
-.description {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-background-color: blue;}
-    .description-text {
-        justify-content: center;
-        display: flex;}
-
-.about-us-text-list {display: flex;}
-
-.about-us-text-item { width: 264;
-    height: auto;}
-
-.description-text {width: 496; height: 120;}
-
-.contact-mail {margin: 5px;}
-.contact-phone-number {margin: 5px;}
-
+.footer {background-color: #2E2F42;}
+.foot-text {color: #F4F4FD;}
